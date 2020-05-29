@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myRobotFriends/static/css/main.06a473d1.chunk.css",
+    "main.js": "/myRobotFriends/static/js/main.d700a0ed.chunk.js",
+    "main.js.map": "/myRobotFriends/static/js/main.d700a0ed.chunk.js.map",
+    "runtime-main.js": "/myRobotFriends/static/js/runtime-main.56520d66.js",
+    "runtime-main.js.map": "/myRobotFriends/static/js/runtime-main.56520d66.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/myRobotFriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ca4a7502.chunk.js": "/myRobotFriends/static/js/2.ca4a7502.chunk.js",
+    "static/js/2.ca4a7502.chunk.js.map": "/myRobotFriends/static/js/2.ca4a7502.chunk.js.map",
+    "index.html": "/myRobotFriends/index.html",
+    "precache-manifest.60a4ec699e627e9bb6980091e2ac92ad.js": "/myRobotFriends/precache-manifest.60a4ec699e627e9bb6980091e2ac92ad.js",
+    "service-worker.js": "/myRobotFriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/myRobotFriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.06a473d1.chunk.css.map": "/myRobotFriends/static/css/main.06a473d1.chunk.css.map",
+    "static/js/2.ca4a7502.chunk.js.LICENSE.txt": "/myRobotFriends/static/js/2.ca4a7502.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myRobotFriends/static/media/Generator REX.0272879d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56520d66.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ca4a7502.chunk.js",
+    "static/css/main.06a473d1.chunk.css",
+    "static/js/main.d700a0ed.chunk.js"
+  ]
+}
